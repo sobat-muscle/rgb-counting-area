@@ -1,0 +1,22 @@
+
+total time:	618.758	counter:	1
+total time:	780.027	counter:	2
+total time:	1373.181	counter:	3
+total waktu:	474.873	:	1
+total waktu:	616.267	:	1
+total waktu:	520.372	:	1
+total waktu:	1352.262	:	2
+total waktu:	2316.818	:	3
+total waktu:	372.867	:	1
+total waktu:	49.347	:	1
+total waktu:	39.466	:	1
+total waktu:	790.813	:	2
+total waktu:	1679.797	:	3
+total waktu:	2122.418	:	4
+total waktu:	90.728	:	1
+total waktu:	864.481	:	2
+total waktu:	1535.865	:	3
+total waktu:	2262.701	:	4
+total waktu:	3040.4880000000003	:	5
+total waktu:	3632.896	:	6
+total waktu:	4037.9210000000003	:	7
